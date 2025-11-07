@@ -1,2 +1,103 @@
-# the-pragmatic-programmer-parsion
-Persian translation of "The Pragmatic Programmer: From Journeyman to Master" by Andrew Hunt &amp; David Thomas.
+<p align="center">
+  <a href="https://github.com/hheydarian/the-pragmatic-programmer-parsion">
+    <img src="assets/image/Cover.jpg" alt="The Pragmatic Programmer Book Cover" width="400"/>
+  </a>
+</p>
+
+<h1 align="center"> ترجمه فارسی کتاب The Pragmatic Programmer</h1>
+
+<p align="center">
+  راهنمایی برای تبدیل شدن از «کارجو» به «استادکار» در دنیای واقعی برنامه‌نویسی
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hheydarian/the-pragmatic-programmer-parsion?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/hheydarian/the-pragmatic-programmer-parsion?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/hheydarian/the-pragmatic-programmer-parsion?color=9cf" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Translation-Progress-ongoing-yellow" alt="Translation Status">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.the-pragmatic-programmer-parsion" alt="Visitors">
+</p>
+
+<h1>
+<p align="center">
+   <a href="https://hheydarian.github.io/Gitab/" target="_blank"><strong>  گیتاب — نسخه آنلاین ترجمه </strong></a>
+</p>
+</h1>
+
+---
+
+## ✨ معرفی پروژه
+
+کتاب **The Pragmatic Programmer** نوشتهٔ **Andrew Hunt** و **David Thomas** یکی از تأثیرگذارترین کتاب‌ها در تاریخ مهندسی نرم‌افزار است.  
+این اثر، نه صرفاً دربارهٔ کدنویسی، بلکه دربارهٔ طرز تفکر، تصمیم‌گیری و حرفه‌ای زیستنِ یک برنامه‌نویس است.  
+
+این ریپازیتوری تلاشی است برای ارائهٔ نسخه‌ای فارسی، دقیق و خوانا از این کتاب ماندگار برای جامعهٔ برنامه‌نویسان فارسی‌زبان.  
+هدف ما، ترجمه‌ای وفادار اما امروزی است که به رشد فکری و حرفه‌ای توسعه‌دهندگان کمک کند 🚀
+
+---
+
+## ⚙️ پیش‌نیاز مطالعه
+
+🔹 آشنایی پایه با یک زبان برنامه‌نویسی کافی است — تمرکز این کتاب بر «تفکر نرم‌افزاری» است، نه صرفاً کد.  
+🔹 برای تجربهٔ بهتر در مرورگر، پیشنهاد می‌کنیم افزونه [فونت ایران](https://chromewebstore.google.com/detail/fontiran/edbchgkbejkdkdkpgenlaciegoidmjoh) را نصب کنید.
+
+---
+
+## 🙌 راه‌های مشارکت
+
+ما از حضور شما در این پروژه استقبال می‌کنیم. می‌توانید از این راه‌ها مشارکت کنید:
+
+- ✏️ **بازبینی ترجمه و پیشنهاد بهبود متن**
+- 💬 **افزودن توضیحات فرهنگی یا فنی برای بومی‌سازی بهتر مفاهیم**
+- 🎨 **بهبود طراحی صفحات و تصاویر**
+
+---
+
+## 🔗 فصل‌های کتاب (با لینک)
+
+<div align="center">
+  
+| شماره | نام فصل (انگلیسی)                        | نام فصل (فارسی)                             | وضعیت | لینک                                               |
+|-------|-------------------------------------------|----------------------------------------------|--------|----------------------------------------------------|
+| 00    | Preface                                  | پیشگفتار                                    | ✅     | [Preface](Book/00/chapter00.md)                     |
+| 01    | A Pragmatic Philosophy                    | فلسفهٔ عملگرایانه                           | ❌     | [A-Pragmatic-Philosophy](Book/01/chapter01.md)     |
+| 02    | A Pragmatic Approach                      | رویکرد عملگرایانه                           | ❌     | [A-Pragmatic-Approach](Book/02/chapter02.md)         |
+| 03    | The Basic Tools                           | ابزارهای پایه                                | ❌     | [The-Basic-Tools](Book/03/chapter03.md)                   |
+| 04    | Pragmatic Paranoia                        | بدگمانی هوشمندانه                            | ❌     | [Pragmatic-Paranoia](Book/04/chapter04.md)             |
+| 05    | Bend or Break                             | انعطاف یا شکست                              | ❌     | [Bend-or-Break](Book/05/chapter05.md)                       |
+| 06    | While You Are Coding                      | وقتی کدنویسی می‌کنید                        | ❌     | [While-You-Are-Coding](Book/06/chapter06.md)         |
+| 07    | Before the Project                        | پیش از پروژه                                 | ❌     | [Before-the-Project](Book/07/chapter07.md)             |
+| 08    | Pragmatic Projects                        | پروژه‌های عملگرایانه                         | ❌     | [Pragmatic-Projects](Book/08/chapter08.md)             |
+| 09    | Postface                                  | پس‌گفتار                                     | ❌     | [Postface](Book/09/chapter09.md)                                 |
+| 10    | Postface                                  | پس‌گفتار                                     | ❌     | [Postface](Book/10/chapter10.md)
+
+</div>
+
+---
+
+## 🧩 اصول ساختاری پروژه
+
+- تمامی فصل‌ها با فرمت `.md` نگارش شده‌اند.  
+- تصاویر و دیاگرام‌ها در پوشه‌ی `assets/image/` قرار دارند.  
+- پروژه به‌صورت باز و قابل ویرایش طراحی شده تا مشارکت‌کنندگان بتوانند مستقیماً در بهبود ترجمه نقش داشته باشند.
+
+---
+
+## 🛡️ مجوز و حقوق نشر
+
+<ul dir="rtl">
+<li><b>حقوق نشر کتاب اصلی:</b> © Andrew Hunt و David Thomas (نشر Addison-Wesley)</li>
+<li><b>متن ترجمه:</b> تحت مجوز <code>CC BY-NC-SA 4.0</code> منتشر می‌شود.</li>
+<li><b>نمونه‌کدها و تمرین‌ها:</b> تحت مجوز <code>MIT License</code> منتشر شده‌اند.</li>
+</ul>
+
+---
+
+## 🌟 قدردانی
+
+سپاس از همهٔ کسانی که برای گسترش دانش نرم‌افزار در جامعهٔ فارسی تلاش می‌کنند.  
+💬 هر مشارکت شما، قدمی در مسیر بهتر شدن این منبع ارزشمند است.
+
+---
+
+<p align="center">ساخته شده با ❤️ برای برنامه‌نویسان عملگرا</p>
