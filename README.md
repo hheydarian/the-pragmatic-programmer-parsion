@@ -59,8 +59,9 @@
   
 | شماره | نام فصل (انگلیسی)                        | نام فصل (فارسی)                             | وضعیت | لینک                                               |
 |-------|-------------------------------------------|----------------------------------------------|--------|----------------------------------------------------|
-| 00    | Preface to the Second Edition                                  | پیش‌گفتار ویرایش دوم                                    | ✅     | [Preface](Book/00/chapter00.md)                     |
-| 00    | Preface to the First Edition                                 | پیش‌گفتار ویرایش اول                                    | ✅     | [Preface](Book/00/chapter00-1.md)                     |
+| 00    | Foreword                                  | پیش‌گفتار                                      | ✅     | [Foreword](Book/00/chapter00.md)
+| 00    | Preface to the Second Edition                                  | پیش‌گفتار ویرایش دوم                                    | ✅     | [Second-Edition](Book/00/chapter00-1.md)                     |
+| 00    | Preface to the First Edition                                 | پیش‌گفتار ویرایش اول                                    | ✅     | [First-Edition](Book/00/chapter00-2.md)                     |
 | 01    | A Pragmatic Philosophy                    | فلسفهٔ عملگرایانه                           | ❌     | [A-Pragmatic-Philosophy](Book/01/chapter01.md)     |
 | 02    | A Pragmatic Approach                      | رویکرد عملگرایانه                           | ❌     | [A-Pragmatic-Approach](Book/02/chapter02.md)         |
 | 03    | The Basic Tools                           | ابزارهای پایه                                | ❌     | [The-Basic-Tools](Book/03/chapter03.md)                   |
